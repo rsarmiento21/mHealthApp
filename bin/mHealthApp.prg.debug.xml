@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="10" pc="268435479" symbol="onLayout"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="11" pc="268435483" symbol="onLayout"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="17" pc="268435521" symbol="onShow"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="21" pc="268435526" symbol="onUpdate"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="23" pc="268435530" symbol="onUpdate"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="29" pc="268435551" symbol="onHide"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="6" pc="268435556" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="7" pc="268435560" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="10" pc="268435579" symbol="onMenuItem"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="11" pc="268435583" symbol="onMenuItem"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="12" pc="268435594" symbol="onMenuItem"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="14" pc="268435629" symbol="onMenuItem"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="5" pc="268435654" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="6" pc="268435658" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="9" pc="268435677" symbol="onMenu"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="10" pc="268435681" symbol="onMenu"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="11" pc="268435765" symbol="onMenu"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="15" pc="268435769" symbol="onTap"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="16" pc="268435773" symbol="onTap"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="6" pc="268435797" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="7" pc="268435801" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="11" pc="268435820" symbol="onStart"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="15" pc="268435825" symbol="onStop"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="19" pc="268435830" symbol="getInitialView"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="20" pc="268435834" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="15" pc="268435902" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268435906" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268435924" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268435976" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268436029" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268436033" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268436196" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268436221" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268436273" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268436389" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268436441" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8" object="true" symbol="mHealthAppView"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="11" object="true" symbol="mHealthAppApp"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="23" symbol="item_2"/>
+<entry id="22" symbol="item_1"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry field="true" id="19" symbol="menu_label_2"/>
+<entry field="true" id="18" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="9" object="true" symbol="mHealthAppMenuDelegate"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="10" object="true" symbol="mHealthAppDelegate"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="14" symbol="id_monkey"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="20" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436468" name="rez_cmp_local_bitmap_CATVJDQIJT_fontHeight" stackId="3" startPc="268436033"/>
+<entry endPc="268436468" name="rez_cmp_local_bitmap_CATVJDQIJT" stackId="2" startPc="268436033"/>
+<entry endPc="268436468" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436033"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="mHealthAppView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="mHealthAppView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="mHealthAppView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="mHealthAppView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="mHealthAppView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="mHealthAppMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="mHealthAppMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="mHealthAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="mHealthAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="mHealthAppDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="mHealthAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="mHealthAppApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="mHealthAppApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="mHealthAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
