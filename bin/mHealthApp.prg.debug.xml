@@ -5,66 +5,108 @@
 <entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="6" pc="268435460" symbol="initialize"/>
 <entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="10" pc="268435479" symbol="onLayout"/>
 <entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="11" pc="268435483" symbol="onLayout"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="17" pc="268435521" symbol="onShow"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="21" pc="268435526" symbol="onUpdate"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="23" pc="268435530" symbol="onUpdate"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="29" pc="268435551" symbol="onHide"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="6" pc="268435556" symbol="initialize"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="7" pc="268435560" symbol="initialize"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="10" pc="268435579" symbol="onMenuItem"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="11" pc="268435583" symbol="onMenuItem"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="12" pc="268435594" symbol="onMenuItem"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="14" pc="268435629" symbol="onMenuItem"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="5" pc="268435654" symbol="initialize"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="6" pc="268435658" symbol="initialize"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="9" pc="268435677" symbol="onMenu"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="10" pc="268435681" symbol="onMenu"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="11" pc="268435765" symbol="onMenu"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="15" pc="268435769" symbol="onTap"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="16" pc="268435773" symbol="onTap"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="6" pc="268435797" symbol="initialize"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="7" pc="268435801" symbol="initialize"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="11" pc="268435820" symbol="onStart"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="15" pc="268435825" symbol="onStop"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="19" pc="268435830" symbol="getInitialView"/>
-<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="20" pc="268435834" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="15" pc="268435902" symbol="initialize"/>
-<entry filename="Rez" lineNum="16" pc="268435906" symbol="initialize"/>
-<entry filename="Rez" lineNum="17" pc="268435924" symbol="initialize"/>
-<entry filename="Rez" lineNum="18" pc="268435976" symbol="initialize"/>
-<entry filename="Rez" lineNum="34" pc="268436029" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="36" pc="268436033" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="37" pc="268436196" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="38" pc="268436221" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="39" pc="268436273" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="40" pc="268436389" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="43" pc="268436441" symbol="MainLayout"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="12" pc="268435506" symbol="onLayout"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="18" pc="268435544" symbol="onShow"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="22" pc="268435549" symbol="onUpdate"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="24" pc="268435553" symbol="onUpdate"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppView.mc" lineNum="30" pc="268435574" symbol="onHide"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="6" pc="268435579" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="7" pc="268435583" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="10" pc="268435602" symbol="onMenuItem"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="11" pc="268435606" symbol="onMenuItem"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="12" pc="268435617" symbol="onMenuItem"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppMenuDelegate.mc" lineNum="14" pc="268435652" symbol="onMenuItem"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="14" pc="268435677" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="15" pc="268435681" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="18" pc="268435700" symbol="onNextPage"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="20" pc="268435704" symbol="onNextPage"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="23" pc="268435708" symbol="onPreviousPage"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="25" pc="268435712" symbol="onPreviousPage"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="28" pc="268435716" symbol="onMenu"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="29" pc="268435720" symbol="onMenu"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="30" pc="268435743" symbol="onMenu"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="33" pc="268435747" symbol="onBack"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="35" pc="268435751" symbol="onBack"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="38" pc="268435755" symbol="onNextMode"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="40" pc="268435759" symbol="onNextMode"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="43" pc="268435763" symbol="onPreviousMode"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="45" pc="268435767" symbol="onPreviousMode"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="48" pc="268435771" symbol="onSelect"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="50" pc="268435775" symbol="onSelect"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="53" pc="268435779" symbol="onTap"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="55" pc="268435783" symbol="onTap"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="56" pc="268435806" symbol="onTap"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="59" pc="268435810" symbol="onHold"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="60" pc="268435814" symbol="onHold"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="62" pc="268435837" symbol="onHold"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="65" pc="268435841" symbol="onRelease"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="66" pc="268435845" symbol="onRelease"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="67" pc="268435868" symbol="onRelease"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="70" pc="268435872" symbol="onSwipe"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="71" pc="268435876" symbol="onSwipe"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="73" pc="268435889" symbol="onSwipe"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="74" pc="268435903" symbol="onSwipe"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="76" pc="268435943" symbol="onSwipe"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="78" pc="268435983" symbol="onSwipe"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="80" pc="268436023" symbol="onSwipe"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppDelegate.mc" lineNum="83" pc="268436049" symbol="onSwipe"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="6" pc="268436053" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="7" pc="268436057" symbol="initialize"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="11" pc="268436076" symbol="onStart"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="15" pc="268436081" symbol="onStop"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="19" pc="268436086" symbol="getInitialView"/>
+<entry filename="D:\\EclipseWorkspace\\mHealthApp\\source\\mHealthAppApp.mc" lineNum="20" pc="268436090" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="15" pc="268436158" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268436162" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268436180" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268436232" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268436285" symbol="ButtonLayout"/>
+<entry filename="Rez" lineNum="36" pc="268436289" symbol="ButtonLayout"/>
+<entry filename="Rez" lineNum="39" pc="268436494" symbol="ButtonLayout"/>
+<entry filename="Rez" lineNum="48" pc="268436512" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="50" pc="268436516" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="51" pc="268436679" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="52" pc="268436704" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="53" pc="268436756" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="54" pc="268436872" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="57" pc="268436924" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
+<entry id="8389101" method="true" symbol="onSwipe"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
 <entry id="8" object="true" symbol="mHealthAppView"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
 <entry id="16" object="true" symbol="MainMenu"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
 <entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389897" symbol="stateDefault"/>
+<entry id="8389082" method="true" symbol="onNextMode"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="18" method="true" symbol="MainLayout"/>
 <entry id="11" object="true" symbol="mHealthAppApp"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389103" symbol="behavior"/>
 <entry id="8389098" method="true" symbol="onTap"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="21" symbol="AppName"/>
+<entry field="true" id="22" symbol="AppName"/>
+<entry id="8389898" symbol="stateHighlighted"/>
+<entry id="8389899" symbol="stateSelected"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
-<entry id="23" symbol="item_2"/>
-<entry id="22" symbol="item_1"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="24" symbol="item_2"/>
+<entry id="23" symbol="item_1"/>
 <entry field="true" id="15" symbol="LauncherIcon"/>
-<entry field="true" id="19" symbol="menu_label_2"/>
-<entry field="true" id="18" symbol="menu_label_1"/>
+<entry field="true" id="20" symbol="menu_label_2"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry field="true" id="19" symbol="menu_label_1"/>
+<entry id="8389083" method="true" symbol="onPreviousMode"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389065" symbol="locY"/>
 <entry id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="17" method="true" symbol="ButtonLayout"/>
 <entry id="9" object="true" symbol="mHealthAppMenuDelegate"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="10" object="true" symbol="mHealthAppDelegate"/>
@@ -72,20 +114,28 @@
 <entry field="true" id="14" symbol="id_monkey"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
+<entry id="8389067" symbol="height"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
 <entry id="13" module="true" symbol="Layouts"/>
-<entry field="true" id="20" symbol="prompt"/>
+<entry field="true" id="21" symbol="prompt"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
 <entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389892" symbol="background"/>
 <entry id="8389345" symbol="rezId"/>
+<entry id="8389099" method="true" symbol="onHold"/>
 <entry id="8389346" symbol="text"/>
+<entry id="8389066" symbol="width"/>
 <entry id="8389063" symbol="identifier"/>
 <entry id="12" module="true" symbol="Menus"/>
+<entry id="8389100" method="true" symbol="onRelease"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436468" name="rez_cmp_local_bitmap_CATVJDQIJT_fontHeight" stackId="3" startPc="268436033"/>
-<entry endPc="268436468" name="rez_cmp_local_bitmap_CATVJDQIJT" stackId="2" startPc="268436033"/>
-<entry endPc="268436468" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436033"/>
+<entry endPc="268436052" name="swipe" stackId="2" startPc="268435876"/>
+<entry endPc="268436511" name="rez_cmp_local_custom_selectable_EQ5XGF92GAEW0V45C3IP" stackId="2" startPc="268436289"/>
+<entry endPc="268436951" name="rez_cmp_local_bitmap_YV4ZAYJQZN_fontHeight" stackId="3" startPc="268436516"/>
+<entry endPc="268436951" name="rez_cmp_local_bitmap_YV4ZAYJQZN" stackId="2" startPc="268436516"/>
+<entry endPc="268436951" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436516"/>
 </localVars>
 <annotations/>
 <functions>
@@ -116,10 +166,40 @@
 <functionEntry name="initialize" parent="mHealthAppDelegate">
 <documentation/>
 </functionEntry>
+<functionEntry name="onNextPage" parent="mHealthAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="mHealthAppDelegate">
+<documentation/>
+</functionEntry>
 <functionEntry name="onMenu" parent="mHealthAppDelegate">
 <documentation/>
 </functionEntry>
+<functionEntry name="onBack" parent="mHealthAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextMode" parent="mHealthAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousMode" parent="mHealthAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSelect" parent="mHealthAppDelegate">
+<documentation/>
+</functionEntry>
 <functionEntry name="onTap" parent="mHealthAppDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHold" parent="mHealthAppDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onRelease" parent="mHealthAppDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onSwipe" parent="mHealthAppDelegate">
 <param id="evt"/>
 <documentation/>
 </functionEntry>
@@ -139,6 +219,10 @@
 </functionEntry>
 <functionEntry name="initialize" parent="MainMenu">
 <documentation/>
+</functionEntry>
+<functionEntry name="ButtonLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
 </functionEntry>
 <functionEntry name="MainLayout" parent="Layouts">
 <param id="dc"/>

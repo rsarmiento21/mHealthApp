@@ -8,7 +8,8 @@ class mHealthAppView extends Ui.View {
 
     // Load your resources here
     function onLayout(dc) {
-        setLayout(Rez.Layouts.MainLayout(dc));
+    	System.println("OnLayout");
+        setLayout(Rez.Layouts.ButtonLayout(dc));
     }
 
     // Called when this View is brought to the foreground. Restore
